@@ -1,0 +1,11 @@
+backend/dist/
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/.env.*
+!backend/.env.example
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
